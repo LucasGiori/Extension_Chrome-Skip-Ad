@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Skip Ad",
+    "description": "Extensão Chrome  para pular anúncios",
+    "author": "Lucas Giori Cesconetto",
+    "content_scripts": [
+	{
+    	"matches": [ "https://www.youtube.com/" ],
+    	"js": [ "youtube.js" ]
+     }
+    ],
+
+	"browser_action": {
+   	 "default_title": "Skip Anúncio",
+   	 "default_icon": "icon.png"
+    }
+    
+}
