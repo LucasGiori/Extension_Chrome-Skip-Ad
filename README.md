@@ -1,17 +1,12 @@
 
 <br>
 <span align="center">
-<b>Extension - Skip Ad Youtube
-</span>
-</b><br><br><br><br>
 
-<span align="center">
-![](https://img.shields.io/github/last-commit/LucasGiori/Extension_Chrome-Skip-Ad)
-![](https://img.shields.io/github/commit-activity/m/LucasGiori/Extension_Chrome-Skip-Ad)
-![](https://img.shields.io/github/repo-size/LucasGiori/Extension_Chrome-Skip-Ad)
-![](https://img.shields.io/github/languages/count/LucasGiori/Extension_Chrome-Skip-Ad)
-![](https://img.shields.io/github/languages/top/LucasGiori/Extension_Chrome-Skip-Ad)
+## :bulb: Extension - Skip Ad Youtube
 </span>
+<br><br><br><br>
+
+
 <br>
 
 ## :bulb: Importar Extensão
